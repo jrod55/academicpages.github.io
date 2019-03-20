@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "Jonas_Ro_riguez"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Jonas_Ro_riguez"
   vine             :
   weibo            :
   xing             :
