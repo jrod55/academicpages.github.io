@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
-Where I Live
+About me
 ------
 Madison, WI!
 
