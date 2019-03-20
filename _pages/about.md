@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Where I Live
-======
+------
 Madison, WI!
 
 Site-wide configuration

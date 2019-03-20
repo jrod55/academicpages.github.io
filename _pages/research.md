@@ -11,4 +11,6 @@ This is what my research interests are: blah blah blah
 
 Current Projects
 ------
-- Metabolomics and transcriptomics in maize
+Metabolomics and transcriptomics in maize
+Gene Network Analysis
+Modular Golden Gate Cloning
