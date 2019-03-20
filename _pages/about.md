@@ -7,7 +7,7 @@ author_profile: true
 
 About me
 ------
-Madison, WI!
+Type in something generic here.
 
 Site-wide configuration
 ------
